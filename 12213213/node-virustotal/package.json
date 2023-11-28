@@ -37,7 +37,7 @@
   "dependencies": {
     "compressjs": "^1.0.3",
     "dateformat": "^3.0.3",
-    "emailjs": "^2.2.0",
+    "emailjs": "^3.0.0",
     "mail-notifier": "^0.3.0",
     "moment": "^2.24.0",
     "request": "^2.88.0",
